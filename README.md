@@ -1,6 +1,6 @@
 # **Daily Coding Problem**
 
-#### Solution for <a href="https://www.dailycodingproblem.com" target="_blank">Daily Coding Problem</a>
+#### Solution for [Daily Coding Problem](https://www.dailycodingproblem.com)
 
 ---
 
